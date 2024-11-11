@@ -8,6 +8,7 @@ require("dotenv").config();
 const userRoutes = require("./routes/userRoutes");
 const flightRoutes = require("./routes/flightRoutes");
 const bookingRoutes = require("./routes/bookingRoutes");
+const attractionsRoutes = require("./routes/attractionsRoutes"); // Import attractions route
 
 const app = express();
 
@@ -22,6 +23,7 @@ app.use(express.json());
 app.use("/api/users", userRoutes);
 app.use("/api/flights", flightRoutes);
 app.use("/api/bookings", bookingRoutes);
+app.use("/api/attractions", attractionsRoutes); // Add attractions route
 
 // Root route
 app.get("/", (req, res) => {
