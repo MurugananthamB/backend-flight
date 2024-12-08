@@ -60,7 +60,7 @@ This is the **backend** service for the Flight Booking and Reservation System. I
 
 
 ### 📂 Directory Structure
-    ```bash
+    ``bash
     backend-flight/
     │
     ├── controllers/       
@@ -88,7 +88,6 @@ This is the **backend** service for the Flight Booking and Reservation System. I
     │   ├── emailService.js
     │
     └── server.js          
-    ```bash
 
 ### 🛡️ API Endpoints
     ```bash
@@ -98,7 +97,7 @@ This is the **backend** service for the Flight Booking and Reservation System. I
     PUT    /api/bookings/:id   # Update a booking
     DELETE /api/bookings/:id   # Cancel a booking
     POST   /api/payments       # Process a payment
-    ```bash
+
 
 ### 🌟 Future Enhancements
     Implement real-time socket-based flight updates.
