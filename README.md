@@ -119,9 +119,9 @@ We welcome contributions to improve this project. Feel free to fork the reposito
 
 ## 📧 Contact
 
-     Developer: @MurugananthamB
-     Email: murugananthamanand01212@gmail.com
+Developer: @MurugananthamB
+Email: murugananthamanand01212@gmail.com
 
-     ---
+
 
     
