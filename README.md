@@ -98,18 +98,30 @@ This is the **backend** service for the Flight Booking and Reservation System. I
 
 
 ### 🌟 Future Enhancements
-    - Implement real-time socket-based flight updates.
-    - Add support for multiple currencies in payment gateways.
-    - Enhance the booking system with multi-city options.
+
+     Implement real-time socket-based flight updates.
+     Add support for multiple currencies in payment gateways.
+     Enhance the booking system with multi-city options.
+
+     ---
 
 ###    🤝 Contributing
-    - We welcome contributions to improve this project. Feel free to fork the repository, make changes, and submit a pull request.
+
+     We welcome contributions to improve this project. Feel free to fork the repository, make changes, and submit a pull request.
+
+     ---
 
 ### 📜 License
-    - This project is licensed under the MIT License.
+
+     This project is licensed under the MIT License.
+
+     ---
 
 ### 📧 Contact
-    - Developer: @MurugananthamB
-    - Email: murugananthamanand01212@gmail.com
+
+     Developer: @MurugananthamB
+     Email: murugananthamanand01212@gmail.com
+
+     ---
 
     
