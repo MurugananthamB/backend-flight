@@ -60,7 +60,6 @@ This is the **backend** service for the Flight Booking and Reservation System. I
 
 
 ### 📂 Directory Structure
-    ``bash
     backend-flight/
     │
     ├── controllers/       
