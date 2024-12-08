@@ -97,7 +97,7 @@ This is the **backend** service for the Flight Booking and Reservation System. I
     POST   /api/payments       # Process a payment
 
 
-### 🌟 Future Enhancements
+## 🌟 Future Enhancements
 
      Implement real-time socket-based flight updates.
      Add support for multiple currencies in payment gateways.
@@ -105,19 +105,19 @@ This is the **backend** service for the Flight Booking and Reservation System. I
 
      ---
 
-###    🤝 Contributing
+##    🤝 Contributing
 
      We welcome contributions to improve this project. Feel free to fork the repository, make changes, and submit a pull request.
 
      ---
 
-### 📜 License
+## 📜 License
 
      This project is licensed under the MIT License.
 
      ---
 
-### 📧 Contact
+## 📧 Contact
 
      Developer: @MurugananthamB
      Email: murugananthamanand01212@gmail.com
