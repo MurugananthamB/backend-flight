@@ -89,7 +89,6 @@ This is the **backend** service for the Flight Booking and Reservation System. I
     └── server.js          
 
 ### 🛡️ API Endpoints
-    ```bash
     GET    /api/flights        # Search flights
     POST   /api/bookings       # Create a booking
     GET    /api/bookings/:id   # View booking details
